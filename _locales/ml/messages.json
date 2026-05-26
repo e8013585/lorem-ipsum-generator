@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ജനറേറ്റര്‍"
+  },
+  "tabParagraphs": {
+    "message": "ഖണ്ഡങ്ങൾ"
+  },
+  "tabWords": {
+    "message": "വാക്കുകൾ"
+  },
+  "tabBytes": {
+    "message": "ബൈറ്റുകൾ"
+  },
+  "tabLists": {
+    "message": "പട്ടികൾ"
+  },
+  "tabParagraphsTitle": {
+    "message": "ഖണ്ഡങ്ങൾ സൃഷ്ടിക്കുക"
+  },
+  "tabWordsTitle": {
+    "message": "വാക്കുകൾ സൃഷ്ടിക്കുക"
+  },
+  "tabBytesTitle": {
+    "message": "ബൈറ്റുകൾ സൃഷ്ടിക്കുക"
+  },
+  "tabListsTitle": {
+    "message": "പട്ടികൾ സൃഷ്ടിക്കുക"
+  },
+  "quantityLabel": {
+    "message": "അളവ്"
+  },
+  "qtyDecrease": {
+    "message": "കുറയ്ക്കുക"
+  },
+  "qtyIncrease": {
+    "message": "വറ്റുക"
+  },
+  "quantityAria": {
+    "message": "അളവ്"
+  },
+  "btnGenerate": {
+    "message": "സൃഷ്ടിക്കുക"
+  },
+  "btnCopy": {
+    "message": "പകര്‍ത്തുക"
+  },
+  "btnCopyAria": {
+    "message": "ക്ലിപ്പ്ബോർഡിലേക്ക് പകര്‍ത്തുക"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum വാച്ചം സൃഷ്ടിക്കാൻ സൃഷ്ടിക്കുക ബട്ടൻ അമര്‍ത്തുക…"
+  },
+  "outputAria": {
+    "message": "സൃഷ്ടിഴിയ Lorem Ipsum വാച്ചം"
+  },
+  "unitParagraphs": {
+    "message": "ഖണ്ഡങ്ങൾ"
+  },
+  "unitWords": {
+    "message": "വാക്കുകൾ"
+  },
+  "unitBytes": {
+    "message": "ബൈറ്റുകൾ"
+  },
+  "unitItems": {
+    "message": "ഇതാൻങ്ങൾ"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "പകര്‍ത്തി!"
+  }
+}

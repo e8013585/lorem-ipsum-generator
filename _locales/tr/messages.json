@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Oluşturucu"
+  },
+  "tabParagraphs": {
+    "message": "Paragraflar"
+  },
+  "tabWords": {
+    "message": "Kelimeler"
+  },
+  "tabBytes": {
+    "message": "Bayt"
+  },
+  "tabLists": {
+    "message": "Listeler"
+  },
+  "tabParagraphsTitle": {
+    "message": "Paragraf oluştur"
+  },
+  "tabWordsTitle": {
+    "message": "Kelime oluştur"
+  },
+  "tabBytesTitle": {
+    "message": "Bayt oluştur"
+  },
+  "tabListsTitle": {
+    "message": "Liste oluştur"
+  },
+  "quantityLabel": {
+    "message": "Miktar"
+  },
+  "qtyDecrease": {
+    "message": "Azalt"
+  },
+  "qtyIncrease": {
+    "message": "Arttır"
+  },
+  "quantityAria": {
+    "message": "Miktar"
+  },
+  "btnGenerate": {
+    "message": "Oluştur"
+  },
+  "btnCopy": {
+    "message": "Kopyala"
+  },
+  "btnCopyAria": {
+    "message": "Panoya kopyala"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum metni oluşturmak için Oluştur'a tıklayın…"
+  },
+  "outputAria": {
+    "message": "Oluşturulan Lorem Ipsum metni"
+  },
+  "unitParagraphs": {
+    "message": "paragraf"
+  },
+  "unitWords": {
+    "message": "kelime"
+  },
+  "unitBytes": {
+    "message": "bayt"
+  },
+  "unitItems": {
+    "message": "öğe"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopyalandı!"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Генератор"
+  },
+  "tabParagraphs": {
+    "message": "Абзацы"
+  },
+  "tabWords": {
+    "message": "Слова"
+  },
+  "tabBytes": {
+    "message": "Байты"
+  },
+  "tabLists": {
+    "message": "Списки"
+  },
+  "tabParagraphsTitle": {
+    "message": "Создать абзацы"
+  },
+  "tabWordsTitle": {
+    "message": "Создать слова"
+  },
+  "tabBytesTitle": {
+    "message": "Создать байты"
+  },
+  "tabListsTitle": {
+    "message": "Создать списки"
+  },
+  "quantityLabel": {
+    "message": "Количество"
+  },
+  "qtyDecrease": {
+    "message": "Уменьшить"
+  },
+  "qtyIncrease": {
+    "message": "Увеличить"
+  },
+  "quantityAria": {
+    "message": "Количество"
+  },
+  "btnGenerate": {
+    "message": "Создать"
+  },
+  "btnCopy": {
+    "message": "Копировать"
+  },
+  "btnCopyAria": {
+    "message": "Копировать в буфер"
+  },
+  "outputPlaceholder": {
+    "message": "Нажмите «Создать» для генерации текста Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Сгенерированный текст Lorem Ipsum"
+  },
+  "unitParagraphs": {
+    "message": "абзацев"
+  },
+  "unitWords": {
+    "message": "слов"
+  },
+  "unitBytes": {
+    "message": "байт"
+  },
+  "unitItems": {
+    "message": "элементов"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Скопировано!"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generátor"
+  },
+  "tabParagraphs": {
+    "message": "Bekezdések"
+  },
+  "tabWords": {
+    "message": "Szavak"
+  },
+  "tabBytes": {
+    "message": "Bájtok"
+  },
+  "tabLists": {
+    "message": "Listák"
+  },
+  "tabParagraphsTitle": {
+    "message": "Bekezdések generálása"
+  },
+  "tabWordsTitle": {
+    "message": "Szavak generálása"
+  },
+  "tabBytesTitle": {
+    "message": "Bájtok generálása"
+  },
+  "tabListsTitle": {
+    "message": "Listák generálása"
+  },
+  "quantityLabel": {
+    "message": "Mennyiség"
+  },
+  "qtyDecrease": {
+    "message": "Csökkent"
+  },
+  "qtyIncrease": {
+    "message": "Növel"
+  },
+  "quantityAria": {
+    "message": "Mennyiség"
+  },
+  "btnGenerate": {
+    "message": "Generálás"
+  },
+  "btnCopy": {
+    "message": "Másolás"
+  },
+  "btnCopyAria": {
+    "message": "Másolás vágólapra"
+  },
+  "outputPlaceholder": {
+    "message": "Kattintson a Generálásra Lorem Ipsum szöveg létrehozásához…"
+  },
+  "outputAria": {
+    "message": "Létrehozott Lorem Ipsum szöveg"
+  },
+  "unitParagraphs": {
+    "message": "bekezdés"
+  },
+  "unitWords": {
+    "message": "szó"
+  },
+  "unitBytes": {
+    "message": "bájt"
+  },
+  "unitItems": {
+    "message": "elem"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Másolva!"
+  }
+}

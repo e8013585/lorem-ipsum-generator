@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Ģenerators"
+  },
+  "tabParagraphs": {
+    "message": "Rindkopas"
+  },
+  "tabWords": {
+    "message": "Vārdi"
+  },
+  "tabBytes": {
+    "message": "Baiti"
+  },
+  "tabLists": {
+    "message": "Saraksti"
+  },
+  "tabParagraphsTitle": {
+    "message": "Ģenerēt rindkopas"
+  },
+  "tabWordsTitle": {
+    "message": "Ģenerēt vārdus"
+  },
+  "tabBytesTitle": {
+    "message": "Ģenerēt baitus"
+  },
+  "tabListsTitle": {
+    "message": "Ģenerēt sarakstus"
+  },
+  "quantityLabel": {
+    "message": "Daudzums"
+  },
+  "qtyDecrease": {
+    "message": "Samazināt"
+  },
+  "qtyIncrease": {
+    "message": "Palielināt"
+  },
+  "quantityAria": {
+    "message": "Daudzums"
+  },
+  "btnGenerate": {
+    "message": "Ģenerēt"
+  },
+  "btnCopy": {
+    "message": "Kopēt"
+  },
+  "btnCopyAria": {
+    "message": "Kopēt starpliktuvē"
+  },
+  "outputPlaceholder": {
+    "message": "Noklikšķiniet uz Ģenerēt, lai izveidotu Lorem Ipsum tekstu…"
+  },
+  "outputAria": {
+    "message": "Ģenerētais Lorem Ipsum teksts"
+  },
+  "unitParagraphs": {
+    "message": "rindkopas"
+  },
+  "unitWords": {
+    "message": "vārdus"
+  },
+  "unitBytes": {
+    "message": "baitus"
+  },
+  "unitItems": {
+    "message": "elementus"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Nokopēts!"
+  }
+}

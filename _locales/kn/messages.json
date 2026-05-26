@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ಜನರೇಟರ್"
+  },
+  "tabParagraphs": {
+    "message": "ಪರಿಛೇದಗಳು"
+  },
+  "tabWords": {
+    "message": "ಪದಗಳು"
+  },
+  "tabBytes": {
+    "message": "ಬೈಟ್ಗಳು"
+  },
+  "tabLists": {
+    "message": "ಪಟ್ಟಿಗಳು"
+  },
+  "tabParagraphsTitle": {
+    "message": "ಪರಿಛೇದಗಳನ್ನು ರೂಪಿಸಿ"
+  },
+  "tabWordsTitle": {
+    "message": "ಪದಗಳನ್ನು ರೂಪಿಸಿ"
+  },
+  "tabBytesTitle": {
+    "message": "ಬೈಟ್ಗಳನ್ನು ರೂಪಿಸಿ"
+  },
+  "tabListsTitle": {
+    "message": "ಪಟ್ಟಿಗಳನ್ನು ರೂಪಿಸಿ"
+  },
+  "quantityLabel": {
+    "message": "ಪ್ರಮಾಣ"
+  },
+  "qtyDecrease": {
+    "message": "ಕಡಿಮೇರಿಸು"
+  },
+  "qtyIncrease": {
+    "message": "ಹೆಚ್ಚಿಸು"
+  },
+  "quantityAria": {
+    "message": "ಪ್ರಮಾಣ"
+  },
+  "btnGenerate": {
+    "message": "ರೂಪಿಸಿ"
+  },
+  "btnCopy": {
+    "message": "ನಕಲಿಸು"
+  },
+  "btnCopyAria": {
+    "message": "ಕ್ಲಿಪ್‌ಬೋರ್ಡುಗೆ ನಕಲಿಸು"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum ಪಠ್ಯವನ್ನು ರೂಪಿಸಲು ರೂಪಿಸಿ ಕ್ಲಿಕ್ மாಡಿ…"
+  },
+  "outputAria": {
+    "message": "ರೂಪಿಸಲಾದ Lorem Ipsum ಪಠ್ಯ"
+  },
+  "unitParagraphs": {
+    "message": "ಪರಿಛೇದಗಳು"
+  },
+  "unitWords": {
+    "message": "ಪದಗಳು"
+  },
+  "unitBytes": {
+    "message": "ಬೈಟ್ಗಳು"
+  },
+  "unitItems": {
+    "message": "ಐಟಂಗಳು"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "ನಕಲಿಸಲಾಯಿತು!"
+  }
+}

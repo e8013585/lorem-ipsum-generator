@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "مولِّد"
+  },
+  "tabParagraphs": {
+    "message": "فقرات"
+  },
+  "tabWords": {
+    "message": "كلمات"
+  },
+  "tabBytes": {
+    "message": "بايتات"
+  },
+  "tabLists": {
+    "message": "قوائم"
+  },
+  "tabParagraphsTitle": {
+    "message": "توليد فقرات"
+  },
+  "tabWordsTitle": {
+    "message": "توليد كلمات"
+  },
+  "tabBytesTitle": {
+    "message": "توليد بايتات"
+  },
+  "tabListsTitle": {
+    "message": "توليد قوائم"
+  },
+  "quantityLabel": {
+    "message": "الكمية"
+  },
+  "qtyDecrease": {
+    "message": "تقليل"
+  },
+  "qtyIncrease": {
+    "message": "زيادة"
+  },
+  "quantityAria": {
+    "message": "الكمية"
+  },
+  "btnGenerate": {
+    "message": "توليد"
+  },
+  "btnCopy": {
+    "message": "نسخ"
+  },
+  "btnCopyAria": {
+    "message": "نسخ إلى الحافظة"
+  },
+  "outputPlaceholder": {
+    "message": "اضغط على توليد لإنشاء نص Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "نص Lorem Ipsum المُولَّد"
+  },
+  "unitParagraphs": {
+    "message": "فقرات"
+  },
+  "unitWords": {
+    "message": "كلمات"
+  },
+  "unitBytes": {
+    "message": "بايتات"
+  },
+  "unitItems": {
+    "message": "عناصر"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "تم النسخ!"
+  }
+}

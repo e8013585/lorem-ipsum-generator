@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "जनरेटर"
+  },
+  "tabParagraphs": {
+    "message": "अनुच्छेद"
+  },
+  "tabWords": {
+    "message": "शब्द"
+  },
+  "tabBytes": {
+    "message": "बाइट्स"
+  },
+  "tabLists": {
+    "message": "सूचियाँ"
+  },
+  "tabParagraphsTitle": {
+    "message": "अनुच्छेद जनरेट करें"
+  },
+  "tabWordsTitle": {
+    "message": "शब्द जनरेट करें"
+  },
+  "tabBytesTitle": {
+    "message": "बाइट्स जनरेट करें"
+  },
+  "tabListsTitle": {
+    "message": "सूचियाँ जनरेट करें"
+  },
+  "quantityLabel": {
+    "message": "मात्रा"
+  },
+  "qtyDecrease": {
+    "message": "घटाएँ"
+  },
+  "qtyIncrease": {
+    "message": "बढ़ाएँ"
+  },
+  "quantityAria": {
+    "message": "मात्रा"
+  },
+  "btnGenerate": {
+    "message": "जनरेट करें"
+  },
+  "btnCopy": {
+    "message": "कॉपी करें"
+  },
+  "btnCopyAria": {
+    "message": "क्लिपबोर्ड में कॉपी करें"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum टेक्स्ट बनانے के लिए जनरेट पर क्लिक करें…"
+  },
+  "outputAria": {
+    "message": "जनरेट किया गया Lorem Ipsum टेक्स्ट"
+  },
+  "unitParagraphs": {
+    "message": "अनुच्छेद"
+  },
+  "unitWords": {
+    "message": "शब्द"
+  },
+  "unitBytes": {
+    "message": "बाइट्स"
+  },
+  "unitItems": {
+    "message": "आइटम"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "कॉपी हुआ!"
+  }
+}

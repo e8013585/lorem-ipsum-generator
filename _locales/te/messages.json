@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "జనరేటర్"
+  },
+  "tabParagraphs": {
+    "message": "పెద్దాలు"
+  },
+  "tabWords": {
+    "message": "పదాలు"
+  },
+  "tabBytes": {
+    "message": "బైట్లు"
+  },
+  "tabLists": {
+    "message": "జబితాలు"
+  },
+  "tabParagraphsTitle": {
+    "message": "పెద్దాలను రూపాందించు"
+  },
+  "tabWordsTitle": {
+    "message": "పదాలను రూపాందించు"
+  },
+  "tabBytesTitle": {
+    "message": "బైట్లను రూపాందించు"
+  },
+  "tabListsTitle": {
+    "message": "జబితాలను రూపాందించు"
+  },
+  "quantityLabel": {
+    "message": "పరిమాణం"
+  },
+  "qtyDecrease": {
+    "message": "తగ్గించు"
+  },
+  "qtyIncrease": {
+    "message": "పెంచు"
+  },
+  "quantityAria": {
+    "message": "పరిమాణం"
+  },
+  "btnGenerate": {
+    "message": "రూపాందించు"
+  },
+  "btnCopy": {
+    "message": "కాపీచు"
+  },
+  "btnCopyAria": {
+    "message": "క్లిప్‌బోర్డుకు కాపీచు"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum వాచ్చనాన్ని రూపాందించాలింటే రూపాందించు క్లిక్ చేయండి…"
+  },
+  "outputAria": {
+    "message": "రూపాందించిన Lorem Ipsum వాచ్చనం"
+  },
+  "unitParagraphs": {
+    "message": "పెద్దాలు"
+  },
+  "unitWords": {
+    "message": "పదాలు"
+  },
+  "unitBytes": {
+    "message": "బైట్లు"
+  },
+  "unitItems": {
+    "message": "ఆయిటెమ్లు"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "కాపీ చేయబడింది!"
+  }
+}

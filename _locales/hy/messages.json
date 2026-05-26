@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Գեներատոր"
+  },
+  "tabParagraphs": {
+    "message": "Պարբերվածներ"
+  },
+  "tabWords": {
+    "message": "Բառեր"
+  },
+  "tabBytes": {
+    "message": "Բայտեր"
+  },
+  "tabLists": {
+    "message": "Ցանկեր"
+  },
+  "tabParagraphsTitle": {
+    "message": "Ստեղծել պարբերվածներ"
+  },
+  "tabWordsTitle": {
+    "message": "Ստեղծել բառեր"
+  },
+  "tabBytesTitle": {
+    "message": "Ստեղծել բայտեր"
+  },
+  "tabListsTitle": {
+    "message": "Ստեղծել ցանկեր"
+  },
+  "quantityLabel": {
+    "message": "Չափ"
+  },
+  "qtyDecrease": {
+    "message": "Նվազել"
+  },
+  "qtyIncrease": {
+    "message": "Ավելացնել"
+  },
+  "quantityAria": {
+    "message": "Չափ"
+  },
+  "btnGenerate": {
+    "message": "Ստեղծել"
+  },
+  "btnCopy": {
+    "message": "Պատճենել"
+  },
+  "btnCopyAria": {
+    "message": "Պատճենել ֆոխաթում"
+  },
+  "outputPlaceholder": {
+    "message": "Սեղմեք Ստեղծել Lorem Ipsum տեքստի ստեղցման համար…"
+  },
+  "outputAria": {
+    "message": "Ստեղծված Lorem Ipsum տեքստ"
+  },
+  "unitParagraphs": {
+    "message": "պարբերվածներ"
+  },
+  "unitWords": {
+    "message": "բառեր"
+  },
+  "unitBytes": {
+    "message": "բայտեր"
+  },
+  "unitItems": {
+    "message": "տարրեր"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Պատճենվել է!"
+  }
+}

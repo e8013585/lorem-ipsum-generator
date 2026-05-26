@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Afsnit"
+  },
+  "tabWords": {
+    "message": "Ord"
+  },
+  "tabBytes": {
+    "message": "Bytes"
+  },
+  "tabLists": {
+    "message": "Lister"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generer afsnit"
+  },
+  "tabWordsTitle": {
+    "message": "Generer ord"
+  },
+  "tabBytesTitle": {
+    "message": "Generer bytes"
+  },
+  "tabListsTitle": {
+    "message": "Generer lister"
+  },
+  "quantityLabel": {
+    "message": "Antal"
+  },
+  "qtyDecrease": {
+    "message": "Formindsk"
+  },
+  "qtyIncrease": {
+    "message": "Forøg"
+  },
+  "quantityAria": {
+    "message": "Antal"
+  },
+  "btnGenerate": {
+    "message": "Generer"
+  },
+  "btnCopy": {
+    "message": "Kopier"
+  },
+  "btnCopyAria": {
+    "message": "Kopier til udklipsholder"
+  },
+  "outputPlaceholder": {
+    "message": "Klik på Generer for at oprette Lorem Ipsum-tekst…"
+  },
+  "outputAria": {
+    "message": "Genereret Lorem Ipsum-tekst"
+  },
+  "unitParagraphs": {
+    "message": "afsnit"
+  },
+  "unitWords": {
+    "message": "ord"
+  },
+  "unitBytes": {
+    "message": "bytes"
+  },
+  "unitItems": {
+    "message": "elementer"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopieret!"
+  }
+}

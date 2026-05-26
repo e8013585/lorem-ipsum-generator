@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ตัวสร้าง"
+  },
+  "tabParagraphs": {
+    "message": "ย่อหน้า"
+  },
+  "tabWords": {
+    "message": "คำ"
+  },
+  "tabBytes": {
+    "message": "ไบต์"
+  },
+  "tabLists": {
+    "message": "รายการ"
+  },
+  "tabParagraphsTitle": {
+    "message": "สร้างย่อหน้า"
+  },
+  "tabWordsTitle": {
+    "message": "สร้างคำ"
+  },
+  "tabBytesTitle": {
+    "message": "สร้างไบต์"
+  },
+  "tabListsTitle": {
+    "message": "สร้างรายการ"
+  },
+  "quantityLabel": {
+    "message": "จำนวน"
+  },
+  "qtyDecrease": {
+    "message": "ลด"
+  },
+  "qtyIncrease": {
+    "message": "เพิ่ม"
+  },
+  "quantityAria": {
+    "message": "จำนวน"
+  },
+  "btnGenerate": {
+    "message": "สร้าง"
+  },
+  "btnCopy": {
+    "message": "คัดลഭก"
+  },
+  "btnCopyAria": {
+    "message": "คัดลഭกไปยังคลิปบอร์ด"
+  },
+  "outputPlaceholder": {
+    "message": "คลิกสร้างเพื่อสร้างข้อความ Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "ข้อความ Lorem Ipsum ที่สร้างแล้ว"
+  },
+  "unitParagraphs": {
+    "message": "ย่อหน้า"
+  },
+  "unitWords": {
+    "message": "คำ"
+  },
+  "unitBytes": {
+    "message": "ไบต์"
+  },
+  "unitItems": {
+    "message": "รายการ"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "คัดลഭกแล้ว!"
+  }
+}

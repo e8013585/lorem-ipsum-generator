@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "생성기"
+  },
+  "tabParagraphs": {
+    "message": "단락"
+  },
+  "tabWords": {
+    "message": "단어"
+  },
+  "tabBytes": {
+    "message": "바이트"
+  },
+  "tabLists": {
+    "message": "리스트"
+  },
+  "tabParagraphsTitle": {
+    "message": "단락 생성"
+  },
+  "tabWordsTitle": {
+    "message": "단어 생성"
+  },
+  "tabBytesTitle": {
+    "message": "바이트 생성"
+  },
+  "tabListsTitle": {
+    "message": "리스트 생성"
+  },
+  "quantityLabel": {
+    "message": "양"
+  },
+  "qtyDecrease": {
+    "message": "감소"
+  },
+  "qtyIncrease": {
+    "message": "증가"
+  },
+  "quantityAria": {
+    "message": "양"
+  },
+  "btnGenerate": {
+    "message": "생성"
+  },
+  "btnCopy": {
+    "message": "복사"
+  },
+  "btnCopyAria": {
+    "message": "클립보드에 복사"
+  },
+  "outputPlaceholder": {
+    "message": "생성을 클릭하여 Lorem Ipsum 텍스트 생성…"
+  },
+  "outputAria": {
+    "message": "생성된 Lorem Ipsum 텍스트"
+  },
+  "unitParagraphs": {
+    "message": "단락"
+  },
+  "unitWords": {
+    "message": "단어"
+  },
+  "unitBytes": {
+    "message": "바이트"
+  },
+  "unitItems": {
+    "message": "항목"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "복사됨!"
+  }
+}

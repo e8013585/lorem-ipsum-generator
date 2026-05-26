@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Stycken"
+  },
+  "tabWords": {
+    "message": "Ord"
+  },
+  "tabBytes": {
+    "message": "Byte"
+  },
+  "tabLists": {
+    "message": "Listor"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generera stycken"
+  },
+  "tabWordsTitle": {
+    "message": "Generera ord"
+  },
+  "tabBytesTitle": {
+    "message": "Generera byte"
+  },
+  "tabListsTitle": {
+    "message": "Generera listor"
+  },
+  "quantityLabel": {
+    "message": "Antal"
+  },
+  "qtyDecrease": {
+    "message": "Minska"
+  },
+  "qtyIncrease": {
+    "message": "Öka"
+  },
+  "quantityAria": {
+    "message": "Antal"
+  },
+  "btnGenerate": {
+    "message": "Generera"
+  },
+  "btnCopy": {
+    "message": "Kopiera"
+  },
+  "btnCopyAria": {
+    "message": "Kopiera till urklipp"
+  },
+  "outputPlaceholder": {
+    "message": "Klicka på Generera för att skapa Lorem Ipsum-text…"
+  },
+  "outputAria": {
+    "message": "Genererad Lorem Ipsum-text"
+  },
+  "unitParagraphs": {
+    "message": "stycken"
+  },
+  "unitWords": {
+    "message": "ord"
+  },
+  "unitBytes": {
+    "message": "byte"
+  },
+  "unitItems": {
+    "message": "objekt"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopierad!"
+  }
+}

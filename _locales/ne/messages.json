@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "जनरेटर"
+  },
+  "tabParagraphs": {
+    "message": "अनुच्छेदहरू"
+  },
+  "tabWords": {
+    "message": "शब्दहरू"
+  },
+  "tabBytes": {
+    "message": "बायटहरू"
+  },
+  "tabLists": {
+    "message": "सूचीहरू"
+  },
+  "tabParagraphsTitle": {
+    "message": "अनुच्छेद उत्पन्न गर्नुहोस्"
+  },
+  "tabWordsTitle": {
+    "message": "शब्द उत्पन्न गर्नुहोस्"
+  },
+  "tabBytesTitle": {
+    "message": "बायट उत्पन्न गर्नुहोस्"
+  },
+  "tabListsTitle": {
+    "message": "सूची उत्पन्न गर्नुहोस्"
+  },
+  "quantityLabel": {
+    "message": "परिमाण"
+  },
+  "qtyDecrease": {
+    "message": "घटाउनुहोस्"
+  },
+  "qtyIncrease": {
+    "message": "बढाउनुहोस्"
+  },
+  "quantityAria": {
+    "message": "परिमाण"
+  },
+  "btnGenerate": {
+    "message": "उत्पन्न गर्नुहोस्"
+  },
+  "btnCopy": {
+    "message": "प्रतिलिपि गर्नुहोस्"
+  },
+  "btnCopyAria": {
+    "message": "क्लिपबोर्डमा प्रतिलिपि गर्नुहोस्"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum पाठ सिर्जना गर्न उत्पन्न गर्नुहोस् मा क्लिक गर्नुहोस्…"
+  },
+  "outputAria": {
+    "message": "उत्पन्न गरिएको Lorem Ipsum पाठ"
+  },
+  "unitParagraphs": {
+    "message": "अनुच्छेद"
+  },
+  "unitWords": {
+    "message": "शब्द"
+  },
+  "unitBytes": {
+    "message": "बायट"
+  },
+  "unitItems": {
+    "message": "पर्न"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "प्रतिलिपि गरिएको!"
+  }
+}

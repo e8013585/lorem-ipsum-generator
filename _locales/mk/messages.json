@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Генератор"
+  },
+  "tabParagraphs": {
+    "message": "Параграфи"
+  },
+  "tabWords": {
+    "message": "Зборови"
+  },
+  "tabBytes": {
+    "message": "Бајтови"
+  },
+  "tabLists": {
+    "message": "Листи"
+  },
+  "tabParagraphsTitle": {
+    "message": "Генерирај параграфи"
+  },
+  "tabWordsTitle": {
+    "message": "Генерирај зборови"
+  },
+  "tabBytesTitle": {
+    "message": "Генерирај бајтови"
+  },
+  "tabListsTitle": {
+    "message": "Генерирај листи"
+  },
+  "quantityLabel": {
+    "message": "Количина"
+  },
+  "qtyDecrease": {
+    "message": "Намали"
+  },
+  "qtyIncrease": {
+    "message": "Зголеми"
+  },
+  "quantityAria": {
+    "message": "Количина"
+  },
+  "btnGenerate": {
+    "message": "Генерирај"
+  },
+  "btnCopy": {
+    "message": "Копирај"
+  },
+  "btnCopyAria": {
+    "message": "Копирај во клипборд"
+  },
+  "outputPlaceholder": {
+    "message": "Кликнете на Генерирај за да креирате Lorem Ipsum текст…"
+  },
+  "outputAria": {
+    "message": "Генериран Lorem Ipsum текст"
+  },
+  "unitParagraphs": {
+    "message": "параграфи"
+  },
+  "unitWords": {
+    "message": "зборови"
+  },
+  "unitBytes": {
+    "message": "бајтови"
+  },
+  "unitItems": {
+    "message": "ставки"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Копирано!"
+  }
+}

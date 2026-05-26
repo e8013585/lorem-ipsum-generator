@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Odlomci"
+  },
+  "tabWords": {
+    "message": "Riječi"
+  },
+  "tabBytes": {
+    "message": "Bajtovi"
+  },
+  "tabLists": {
+    "message": "Popisi"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generiraj odlomke"
+  },
+  "tabWordsTitle": {
+    "message": "Generiraj riječi"
+  },
+  "tabBytesTitle": {
+    "message": "Generiraj bajtove"
+  },
+  "tabListsTitle": {
+    "message": "Generiraj popise"
+  },
+  "quantityLabel": {
+    "message": "Količina"
+  },
+  "qtyDecrease": {
+    "message": "Smanji"
+  },
+  "qtyIncrease": {
+    "message": "Povećaj"
+  },
+  "quantityAria": {
+    "message": "Količina"
+  },
+  "btnGenerate": {
+    "message": "Generiraj"
+  },
+  "btnCopy": {
+    "message": "Kopiraj"
+  },
+  "btnCopyAria": {
+    "message": "Kopiraj u međuspremnik"
+  },
+  "outputPlaceholder": {
+    "message": "Kliknite Generiraj za stvaranje Lorem Ipsum teksta…"
+  },
+  "outputAria": {
+    "message": "Generirani Lorem Ipsum tekst"
+  },
+  "unitParagraphs": {
+    "message": "odlomaka"
+  },
+  "unitWords": {
+    "message": "riječi"
+  },
+  "unitBytes": {
+    "message": "bajtova"
+  },
+  "unitItems": {
+    "message": "stavki"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopirano!"
+  }
+}

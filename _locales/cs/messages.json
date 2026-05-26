@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generátor"
+  },
+  "tabParagraphs": {
+    "message": "Odstavce"
+  },
+  "tabWords": {
+    "message": "Slova"
+  },
+  "tabBytes": {
+    "message": "Bajty"
+  },
+  "tabLists": {
+    "message": "Seznamy"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generovat odstavce"
+  },
+  "tabWordsTitle": {
+    "message": "Generovat slova"
+  },
+  "tabBytesTitle": {
+    "message": "Generovat bajty"
+  },
+  "tabListsTitle": {
+    "message": "Generovat seznamy"
+  },
+  "quantityLabel": {
+    "message": "Množství"
+  },
+  "qtyDecrease": {
+    "message": "Snížit"
+  },
+  "qtyIncrease": {
+    "message": "Zvýšit"
+  },
+  "quantityAria": {
+    "message": "Množství"
+  },
+  "btnGenerate": {
+    "message": "Generovat"
+  },
+  "btnCopy": {
+    "message": "Kopírovat"
+  },
+  "btnCopyAria": {
+    "message": "Kopírovat do schránky"
+  },
+  "outputPlaceholder": {
+    "message": "Kliknutím na Generovat vytvoříte text Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Vygenerovaný text Lorem Ipsum"
+  },
+  "unitParagraphs": {
+    "message": "odstavců"
+  },
+  "unitWords": {
+    "message": "slov"
+  },
+  "unitBytes": {
+    "message": "bajtů"
+  },
+  "unitItems": {
+    "message": "položek"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Zkopírováno!"
+  }
+}

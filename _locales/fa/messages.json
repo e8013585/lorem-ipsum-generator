@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "تولید‌کننده"
+  },
+  "tabParagraphs": {
+    "message": "پاراگراف‌ها"
+  },
+  "tabWords": {
+    "message": "کلمات"
+  },
+  "tabBytes": {
+    "message": "بایت‌ها"
+  },
+  "tabLists": {
+    "message": "فهرست‌ها"
+  },
+  "tabParagraphsTitle": {
+    "message": "تولید پاراگراف"
+  },
+  "tabWordsTitle": {
+    "message": "تولید کلمات"
+  },
+  "tabBytesTitle": {
+    "message": "تولید بایت"
+  },
+  "tabListsTitle": {
+    "message": "تولید فهرست"
+  },
+  "quantityLabel": {
+    "message": "تعداد"
+  },
+  "qtyDecrease": {
+    "message": "کاهش"
+  },
+  "qtyIncrease": {
+    "message": "افزایش"
+  },
+  "quantityAria": {
+    "message": "تعداد"
+  },
+  "btnGenerate": {
+    "message": "تولید"
+  },
+  "btnCopy": {
+    "message": "رونویسی"
+  },
+  "btnCopyAria": {
+    "message": "رونویسی در حافظه"
+  },
+  "outputPlaceholder": {
+    "message": "برای ایجاد متن Lorem Ipsum روی تولید کلیک کنید…"
+  },
+  "outputAria": {
+    "message": "متن Lorem Ipsum تولیدشده"
+  },
+  "unitParagraphs": {
+    "message": "پاراگراف"
+  },
+  "unitWords": {
+    "message": "کلمه"
+  },
+  "unitBytes": {
+    "message": "بایت"
+  },
+  "unitItems": {
+    "message": "مورد"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "رونویسی شد!"
+  }
+}

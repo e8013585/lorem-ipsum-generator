@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Lorem Ipsum Generator</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+
+  <div class="app">
+
+    <!-- Header -->
+    <header class="header">
+      <div class="header-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="20" height="20" fill="none" stroke="#6c63ff" stroke-width="1.5" stroke-linecap="round">
+          <path d="M4 2h8v12H4z"/>
+          <path d="M6 5h4M6 7.5h4M6 10h2"/>
+        </svg>
+      </div>
+      <div class="header-text">
+        <h1 class="title">Lorem Ipsum</h1>
+        <span class="subtitle">Generator</span>
+      </div>
+    </header>
+
+    <!-- Controls -->
+    <section class="controls">
+
+      <!-- Mode Tabs -->
+      <div class="mode-tabs" role="tablist">
+        <button class="tab active" data-mode="paragraphs" role="tab" aria-selected="true" title="Generate paragraphs">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <path d="M2 3h12v1.5H2zm0 3h10v1.5H2zm0 3h12v1.5H2zm0 3h7v1.5H2z"/>
+          </svg>
+          Paragraphs
+        </button>
+        <button class="tab" data-mode="words" role="tab" aria-selected="false" title="Generate words">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <path d="M2 4h3v8H2zm5 0h3v8H7zm5 0h2v8h-2z"/>
+          </svg>
+          Words
+        </button>
+        <button class="tab" data-mode="bytes" role="tab" aria-selected="false" title="Generate bytes">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <path d="M1 3h2v2H1zm3 0h2v2H4zm3 0h2v2H7zm3 0h2v2h-2zm-9 4h2v2H1zm6 0h2v2H7zm3 0h2v2h-2zm-9 4h2v2H1zm3 0h2v2H4zm6 0h2v2h-2z"/>
+          </svg>
+          Bytes
+        </button>
+        <button class="tab" data-mode="lists" role="tab" aria-selected="false" title="Generate lists">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <circle cx="2.5" cy="4" r="1.5"/>
+            <rect x="5" y="3.25" width="9" height="1.5" rx="0.75"/>
+            <circle cx="2.5" cy="8" r="1.5"/>
+            <rect x="5" y="7.25" width="9" height="1.5" rx="0.75"/>
+            <circle cx="2.5" cy="12" r="1.5"/>
+            <rect x="5" y="11.25" width="9" height="1.5" rx="0.75"/>
+          </svg>
+          Lists
+        </button>
+      </div>
+
+      <!-- Quantity Row -->
+      <div class="quantity-row">
+        <label class="quantity-label" for="quantity-input">
+          Amount
+        </label>
+        <div class="quantity-input-wrap">
+          <button class="qty-btn" id="qty-dec" aria-label="Decrease">−</button>
+          <input
+            id="quantity-input"
+            class="quantity-input"
+            type="number"
+            min="1"
+            max="9999"
+            value="3"
+            aria-label="Quantity"
+          />
+          <button class="qty-btn" id="qty-inc" aria-label="Increase">+</button>
+        </div>
+        <span class="quantity-unit" id="quantity-unit">paragraphs</span>
+      </div>
+
+      <!-- Generate Button -->
+      <button class="btn-generate" id="btn-generate">
+        Generate
+      </button>
+
+    </section>
+
+    <!-- Output Area -->
+    <section class="output-section">
+      <div class="output-header">
+        <span class="output-label" id="output-stats"></span>
+        <button class="btn-copy" id="btn-copy" disabled aria-label="Copy to clipboard">
+          <svg class="icon-copy" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <path d="M4 2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V2zm2-1a1 1 0 0 0-1 1v9a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H6z"/>
+            <path d="M2 5a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h7a1 1 0 0 0 1-1v-1H9v1H2V6h1V5H2z"/>
+          </svg>
+          <svg class="icon-check hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="13" height="13" fill="currentColor">
+            <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.75.75 0 0 1 1.06-1.06L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0z"/>
+          </svg>
+          <span class="copy-label">Copy</span>
+        </button>
+      </div>
+
+      <div class="output-wrap">
+        <textarea
+          id="output-area"
+          class="output-area"
+          readonly
+          placeholder="Click Generate to create Lorem Ipsum text…"
+          aria-label="Generated Lorem Ipsum text"
+          spellcheck="false"
+        ></textarea>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <span>v1.0.0</span>
+    </footer>
+
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>

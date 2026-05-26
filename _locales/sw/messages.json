@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Kizalisha"
+  },
+  "tabParagraphs": {
+    "message": "Vifungu"
+  },
+  "tabWords": {
+    "message": "Maneno"
+  },
+  "tabBytes": {
+    "message": "Baiti"
+  },
+  "tabLists": {
+    "message": "Orodha"
+  },
+  "tabParagraphsTitle": {
+    "message": "Zalisha vifungu"
+  },
+  "tabWordsTitle": {
+    "message": "Zalisha maneno"
+  },
+  "tabBytesTitle": {
+    "message": "Zalisha baiti"
+  },
+  "tabListsTitle": {
+    "message": "Zalisha orodha"
+  },
+  "quantityLabel": {
+    "message": "Kiasi"
+  },
+  "qtyDecrease": {
+    "message": "Punguza"
+  },
+  "qtyIncrease": {
+    "message": "Ongeza"
+  },
+  "quantityAria": {
+    "message": "Kiasi"
+  },
+  "btnGenerate": {
+    "message": "Zalisha"
+  },
+  "btnCopy": {
+    "message": "Nakili"
+  },
+  "btnCopyAria": {
+    "message": "Nakili kwenye ubao wa kunakilia"
+  },
+  "outputPlaceholder": {
+    "message": "Bonyeza Zalisha kuunda maandishi ya Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Maandishi ya Lorem Ipsum yaliyozalishwa"
+  },
+  "unitParagraphs": {
+    "message": "vifungu"
+  },
+  "unitWords": {
+    "message": "maneno"
+  },
+  "unitBytes": {
+    "message": "baiti"
+  },
+  "unitItems": {
+    "message": "vitu"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Imenakiliwa!"
+  }
+}

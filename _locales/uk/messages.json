@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Генератор"
+  },
+  "tabParagraphs": {
+    "message": "Абзаці"
+  },
+  "tabWords": {
+    "message": "Слова"
+  },
+  "tabBytes": {
+    "message": "Байти"
+  },
+  "tabLists": {
+    "message": "Списки"
+  },
+  "tabParagraphsTitle": {
+    "message": "Створити абзаці"
+  },
+  "tabWordsTitle": {
+    "message": "Створити слова"
+  },
+  "tabBytesTitle": {
+    "message": "Створити байти"
+  },
+  "tabListsTitle": {
+    "message": "Створити списки"
+  },
+  "quantityLabel": {
+    "message": "Кількість"
+  },
+  "qtyDecrease": {
+    "message": "Зменшити"
+  },
+  "qtyIncrease": {
+    "message": "Збільшити"
+  },
+  "quantityAria": {
+    "message": "Кількість"
+  },
+  "btnGenerate": {
+    "message": "Створити"
+  },
+  "btnCopy": {
+    "message": "Копіювати"
+  },
+  "btnCopyAria": {
+    "message": "Копіювати в буфер обміну"
+  },
+  "outputPlaceholder": {
+    "message": "Натисніть Створити для створення тексту Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Створений текст Lorem Ipsum"
+  },
+  "unitParagraphs": {
+    "message": "абзаців"
+  },
+  "unitWords": {
+    "message": "сів"
+  },
+  "unitBytes": {
+    "message": "байтів"
+  },
+  "unitItems": {
+    "message": "елементів"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Скопійовано!"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generaator"
+  },
+  "tabParagraphs": {
+    "message": "Lõigud"
+  },
+  "tabWords": {
+    "message": "Sõnad"
+  },
+  "tabBytes": {
+    "message": "Baidid"
+  },
+  "tabLists": {
+    "message": "Loendid"
+  },
+  "tabParagraphsTitle": {
+    "message": "Loo lõike"
+  },
+  "tabWordsTitle": {
+    "message": "Loo sõnu"
+  },
+  "tabBytesTitle": {
+    "message": "Loo baite"
+  },
+  "tabListsTitle": {
+    "message": "Loo loendeid"
+  },
+  "quantityLabel": {
+    "message": "Kogus"
+  },
+  "qtyDecrease": {
+    "message": "Vähenda"
+  },
+  "qtyIncrease": {
+    "message": "Suurenda"
+  },
+  "quantityAria": {
+    "message": "Kogus"
+  },
+  "btnGenerate": {
+    "message": "Loo"
+  },
+  "btnCopy": {
+    "message": "Kopeeri"
+  },
+  "btnCopyAria": {
+    "message": "Kopeeri lõikelauale"
+  },
+  "outputPlaceholder": {
+    "message": "Klõpsake Loo, et luua Lorem Ipsum teksti…"
+  },
+  "outputAria": {
+    "message": "Loodud Lorem Ipsum tekst"
+  },
+  "unitParagraphs": {
+    "message": "lõikude"
+  },
+  "unitWords": {
+    "message": "sõnade"
+  },
+  "unitBytes": {
+    "message": "baitide"
+  },
+  "unitItems": {
+    "message": "üksuste"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopeeritud!"
+  }
+}

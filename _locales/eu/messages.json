@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Sortzailea"
+  },
+  "tabParagraphs": {
+    "message": "Parrafoak"
+  },
+  "tabWords": {
+    "message": "Hitzak"
+  },
+  "tabBytes": {
+    "message": "Byteak"
+  },
+  "tabLists": {
+    "message": "Zerrendak"
+  },
+  "tabParagraphsTitle": {
+    "message": "Sortu parrafoak"
+  },
+  "tabWordsTitle": {
+    "message": "Sortu hitzak"
+  },
+  "tabBytesTitle": {
+    "message": "Sortu byteak"
+  },
+  "tabListsTitle": {
+    "message": "Sortu zerrendak"
+  },
+  "quantityLabel": {
+    "message": "Kopurua"
+  },
+  "qtyDecrease": {
+    "message": "Txikitu"
+  },
+  "qtyIncrease": {
+    "message": "Handitu"
+  },
+  "quantityAria": {
+    "message": "Kopurua"
+  },
+  "btnGenerate": {
+    "message": "Sortu"
+  },
+  "btnCopy": {
+    "message": "Kopiatu"
+  },
+  "btnCopyAria": {
+    "message": "Kopiatu arbelera"
+  },
+  "outputPlaceholder": {
+    "message": "Egin klik Sortu Lorem Ipsum testua sortzeko…"
+  },
+  "outputAria": {
+    "message": "Sortutako Lorem Ipsum testua"
+  },
+  "unitParagraphs": {
+    "message": "parrafo"
+  },
+  "unitWords": {
+    "message": "hitz"
+  },
+  "unitBytes": {
+    "message": "byte"
+  },
+  "unitItems": {
+    "message": "elementu"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopiatuta!"
+  }
+}

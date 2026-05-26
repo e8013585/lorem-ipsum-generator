@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "जनरेटर"
+  },
+  "tabParagraphs": {
+    "message": "परिच्छेद"
+  },
+  "tabWords": {
+    "message": "शब्द"
+  },
+  "tabBytes": {
+    "message": "बाइट्स"
+  },
+  "tabLists": {
+    "message": "यादी"
+  },
+  "tabParagraphsTitle": {
+    "message": "परिच्छेद तयार करा"
+  },
+  "tabWordsTitle": {
+    "message": "शब्द तयार करा"
+  },
+  "tabBytesTitle": {
+    "message": "बाइट्स तयार करा"
+  },
+  "tabListsTitle": {
+    "message": "यादी तयार करा"
+  },
+  "quantityLabel": {
+    "message": "प्रमाण"
+  },
+  "qtyDecrease": {
+    "message": "कमी करा"
+  },
+  "qtyIncrease": {
+    "message": "वाढवा"
+  },
+  "quantityAria": {
+    "message": "प्रमाण"
+  },
+  "btnGenerate": {
+    "message": "तयार करा"
+  },
+  "btnCopy": {
+    "message": "कॉपी करा"
+  },
+  "btnCopyAria": {
+    "message": "क्लिपबोर्डवर कॉपी करा"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum मजकूर तयार करण्यासाठी तयार क्लिक करा…"
+  },
+  "outputAria": {
+    "message": "तयार केलेला Lorem Ipsum मजकूर"
+  },
+  "unitParagraphs": {
+    "message": "परिच्छेद"
+  },
+  "unitWords": {
+    "message": "शब्द"
+  },
+  "unitBytes": {
+    "message": "बाइट्स"
+  },
+  "unitItems": {
+    "message": "आयटम"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "कॉपी झाले!"
+  }
+}

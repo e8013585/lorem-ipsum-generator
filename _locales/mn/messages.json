@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Генератор"
+  },
+  "tabParagraphs": {
+    "message": "Догнолтууд"
+  },
+  "tabWords": {
+    "message": "Үгнүүд"
+  },
+  "tabBytes": {
+    "message": "Байтууд"
+  },
+  "tabLists": {
+    "message": "Жагсаалтууд"
+  },
+  "tabParagraphsTitle": {
+    "message": "Догнолт үүсгэх"
+  },
+  "tabWordsTitle": {
+    "message": "Үг үүсгэх"
+  },
+  "tabBytesTitle": {
+    "message": "Байт үүсгэх"
+  },
+  "tabListsTitle": {
+    "message": "Жагсаалт үүсгэх"
+  },
+  "quantityLabel": {
+    "message": "Тоо хэмжээ"
+  },
+  "qtyDecrease": {
+    "message": "Багасах"
+  },
+  "qtyIncrease": {
+    "message": "Нэмэгдүүлэх"
+  },
+  "quantityAria": {
+    "message": "Тоо хэмжээ"
+  },
+  "btnGenerate": {
+    "message": "Үүсгэх"
+  },
+  "btnCopy": {
+    "message": "Хуулах"
+  },
+  "btnCopyAria": {
+    "message": "Сандай санд хуулах"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum текст үүсгэхийн түлэү Үүсгэх дээр дарна уу…"
+  },
+  "outputAria": {
+    "message": "Үүсгэгдсэн Lorem Ipsum текст"
+  },
+  "unitParagraphs": {
+    "message": "догнолт"
+  },
+  "unitWords": {
+    "message": "үг"
+  },
+  "unitBytes": {
+    "message": "байт"
+  },
+  "unitItems": {
+    "message": "зүйл"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Хуулагдсан!"
+  }
+}

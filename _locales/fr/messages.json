@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Générateur"
+  },
+  "tabParagraphs": {
+    "message": "Paragraphes"
+  },
+  "tabWords": {
+    "message": "Mots"
+  },
+  "tabBytes": {
+    "message": "Octets"
+  },
+  "tabLists": {
+    "message": "Listes"
+  },
+  "tabParagraphsTitle": {
+    "message": "Générer des paragraphes"
+  },
+  "tabWordsTitle": {
+    "message": "Générer des mots"
+  },
+  "tabBytesTitle": {
+    "message": "Générer des octets"
+  },
+  "tabListsTitle": {
+    "message": "Générer des listes"
+  },
+  "quantityLabel": {
+    "message": "Quantité"
+  },
+  "qtyDecrease": {
+    "message": "Diminuer"
+  },
+  "qtyIncrease": {
+    "message": "Augmenter"
+  },
+  "quantityAria": {
+    "message": "Quantité"
+  },
+  "btnGenerate": {
+    "message": "Générer"
+  },
+  "btnCopy": {
+    "message": "Copier"
+  },
+  "btnCopyAria": {
+    "message": "Copier dans le presse-papier"
+  },
+  "outputPlaceholder": {
+    "message": "Cliquez sur Générer pour créer du texte Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Texte Lorem Ipsum généré"
+  },
+  "unitParagraphs": {
+    "message": "paragraphes"
+  },
+  "unitWords": {
+    "message": "mots"
+  },
+  "unitBytes": {
+    "message": "octets"
+  },
+  "unitItems": {
+    "message": "éléments"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Copié!"
+  }
+}

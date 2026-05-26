@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ජනරේටරය"
+  },
+  "tabParagraphs": {
+    "message": "ඡේද"
+  },
+  "tabWords": {
+    "message": "වචන"
+  },
+  "tabBytes": {
+    "message": "බයිට"
+  },
+  "tabLists": {
+    "message": "ලැයිස්තු"
+  },
+  "tabParagraphsTitle": {
+    "message": "ඡේද ජනරේට් කරන්න"
+  },
+  "tabWordsTitle": {
+    "message": "වචන ජනරේට් කරන්න"
+  },
+  "tabBytesTitle": {
+    "message": "බයිට ජනරේට් කරන්න"
+  },
+  "tabListsTitle": {
+    "message": "ලැයිස්තු ජනරේට් කරන්න"
+  },
+  "quantityLabel": {
+    "message": "ප්රමාණය"
+  },
+  "qtyDecrease": {
+    "message": "අඩු කරන්න"
+  },
+  "qtyIncrease": {
+    "message": "වැඩි කරන්න"
+  },
+  "quantityAria": {
+    "message": "ප්රමාණය"
+  },
+  "btnGenerate": {
+    "message": "ජනරේට් කරන්න"
+  },
+  "btnCopy": {
+    "message": "පිටපත් කරන්න"
+  },
+  "btnCopyAria": {
+    "message": "පසුවරුවට පිටපත් කරන්න"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum පෙළ තන් කිරීමට ජනරේට් ක්ලික් කරන්න…"
+  },
+  "outputAria": {
+    "message": "ජනරේට් කරන ලද Lorem Ipsum පෙළ"
+  },
+  "unitParagraphs": {
+    "message": "ඡේද"
+  },
+  "unitWords": {
+    "message": "වචන"
+  },
+  "unitBytes": {
+    "message": "බයිට"
+  },
+  "unitItems": {
+    "message": "අයිතම්"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "පිටපත් කරන ලදි!"
+  }
+}

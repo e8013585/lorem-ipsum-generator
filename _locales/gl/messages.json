@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Xerador"
+  },
+  "tabParagraphs": {
+    "message": "Parágrafos"
+  },
+  "tabWords": {
+    "message": "Palabras"
+  },
+  "tabBytes": {
+    "message": "Bytes"
+  },
+  "tabLists": {
+    "message": "Listas"
+  },
+  "tabParagraphsTitle": {
+    "message": "Xerar parágrafos"
+  },
+  "tabWordsTitle": {
+    "message": "Xerar palabras"
+  },
+  "tabBytesTitle": {
+    "message": "Xerar bytes"
+  },
+  "tabListsTitle": {
+    "message": "Xerar listas"
+  },
+  "quantityLabel": {
+    "message": "Cantidade"
+  },
+  "qtyDecrease": {
+    "message": "Diminuír"
+  },
+  "qtyIncrease": {
+    "message": "Aumentar"
+  },
+  "quantityAria": {
+    "message": "Cantidade"
+  },
+  "btnGenerate": {
+    "message": "Xerar"
+  },
+  "btnCopy": {
+    "message": "Copiar"
+  },
+  "btnCopyAria": {
+    "message": "Copiar á porta-retallos"
+  },
+  "outputPlaceholder": {
+    "message": "Fai clic en Xerar para crear texto Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Texto Lorem Ipsum xerado"
+  },
+  "unitParagraphs": {
+    "message": "parágrafos"
+  },
+  "unitWords": {
+    "message": "palabras"
+  },
+  "unitBytes": {
+    "message": "bytes"
+  },
+  "unitItems": {
+    "message": "elementos"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Copiado!"
+  }
+}

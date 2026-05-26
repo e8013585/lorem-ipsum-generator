@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "מחולל"
+  },
+  "tabParagraphs": {
+    "message": "פסקות"
+  },
+  "tabWords": {
+    "message": "מילים"
+  },
+  "tabBytes": {
+    "message": "ביתים"
+  },
+  "tabLists": {
+    "message": "רשימות"
+  },
+  "tabParagraphsTitle": {
+    "message": "צור פסקות"
+  },
+  "tabWordsTitle": {
+    "message": "צור מילים"
+  },
+  "tabBytesTitle": {
+    "message": "צור ביתים"
+  },
+  "tabListsTitle": {
+    "message": "צור רשימות"
+  },
+  "quantityLabel": {
+    "message": "כמות"
+  },
+  "qtyDecrease": {
+    "message": "הפחת"
+  },
+  "qtyIncrease": {
+    "message": "הגדל"
+  },
+  "quantityAria": {
+    "message": "כמות"
+  },
+  "btnGenerate": {
+    "message": "צור"
+  },
+  "btnCopy": {
+    "message": "העתק"
+  },
+  "btnCopyAria": {
+    "message": "העתק ללוח"
+  },
+  "outputPlaceholder": {
+    "message": "לחץ על צור כדי ליצור טקסט Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "טקסט Lorem Ipsum שנוצר"
+  },
+  "unitParagraphs": {
+    "message": "פסקות"
+  },
+  "unitWords": {
+    "message": "מילים"
+  },
+  "unitBytes": {
+    "message": "ביתים"
+  },
+  "unitItems": {
+    "message": "פריטים"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "הועתק!"
+  }
+}

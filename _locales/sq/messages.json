@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Gjenerues"
+  },
+  "tabParagraphs": {
+    "message": "Paragrafë"
+  },
+  "tabWords": {
+    "message": "Fjalë"
+  },
+  "tabBytes": {
+    "message": "Bajt"
+  },
+  "tabLists": {
+    "message": "Lista"
+  },
+  "tabParagraphsTitle": {
+    "message": "Gjenero paragrafë"
+  },
+  "tabWordsTitle": {
+    "message": "Gjenero fjalë"
+  },
+  "tabBytesTitle": {
+    "message": "Gjenero bajt"
+  },
+  "tabListsTitle": {
+    "message": "Gjenero lista"
+  },
+  "quantityLabel": {
+    "message": "Sasia"
+  },
+  "qtyDecrease": {
+    "message": "Ul"
+  },
+  "qtyIncrease": {
+    "message": "Rrit"
+  },
+  "quantityAria": {
+    "message": "Sasia"
+  },
+  "btnGenerate": {
+    "message": "Gjenero"
+  },
+  "btnCopy": {
+    "message": "Kopjo"
+  },
+  "btnCopyAria": {
+    "message": "Kopjo në clipboard"
+  },
+  "outputPlaceholder": {
+    "message": "Kliko Gjenero për të krijuar tekst Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Teksti Lorem Ipsum i gjeneruar"
+  },
+  "unitParagraphs": {
+    "message": "paragrafë"
+  },
+  "unitWords": {
+    "message": "fjalë"
+  },
+  "unitBytes": {
+    "message": "bajt"
+  },
+  "unitItems": {
+    "message": "artikuj"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "U kopjua!"
+  }
+}

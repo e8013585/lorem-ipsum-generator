@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ஜெனரேட்டர்"
+  },
+  "tabParagraphs": {
+    "message": "பட்டியங்கள்"
+  },
+  "tabWords": {
+    "message": "சொற்கள்"
+  },
+  "tabBytes": {
+    "message": "பைட்கள்"
+  },
+  "tabLists": {
+    "message": "பட்டியல்கள்"
+  },
+  "tabParagraphsTitle": {
+    "message": "பட்டியங்களை உருவாக்குக"
+  },
+  "tabWordsTitle": {
+    "message": "சொற்களை உருவாக்குக"
+  },
+  "tabBytesTitle": {
+    "message": "பைட்களை உருவாக்குக"
+  },
+  "tabListsTitle": {
+    "message": "பட்டியல்களை உருவாக்குக"
+  },
+  "quantityLabel": {
+    "message": "அளவு"
+  },
+  "qtyDecrease": {
+    "message": "குறைக்க"
+  },
+  "qtyIncrease": {
+    "message": "அதிகரிக்க"
+  },
+  "quantityAria": {
+    "message": "அளவு"
+  },
+  "btnGenerate": {
+    "message": "உருவாக்குக"
+  },
+  "btnCopy": {
+    "message": "நகல்"
+  },
+  "btnCopyAria": {
+    "message": "க்லிப்பில் நகல்"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum உரையை உருவாக்க உருவாக்கு க்லிக் செய்யவும்…"
+  },
+  "outputAria": {
+    "message": "உருவாக்கப்பட்ட Lorem Ipsum உரை"
+  },
+  "unitParagraphs": {
+    "message": "பட்டியங்கள்"
+  },
+  "unitWords": {
+    "message": "சொற்கள்"
+  },
+  "unitBytes": {
+    "message": "பைட்கள்"
+  },
+  "unitItems": {
+    "message": "உருப்படிகள்"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "நகல் செய்யப்பட்டது!"
+  }
+}

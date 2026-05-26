@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "جنریٹر"
+  },
+  "tabParagraphs": {
+    "message": "پارگراف"
+  },
+  "tabWords": {
+    "message": "الفاظ"
+  },
+  "tabBytes": {
+    "message": "بائیٹس"
+  },
+  "tabLists": {
+    "message": "فہارستیں"
+  },
+  "tabParagraphsTitle": {
+    "message": "پارگراف تیار کریں"
+  },
+  "tabWordsTitle": {
+    "message": "الفاظ تیار کریں"
+  },
+  "tabBytesTitle": {
+    "message": "بائیٹس تیار کریں"
+  },
+  "tabListsTitle": {
+    "message": "فہارستیں تیار کریں"
+  },
+  "quantityLabel": {
+    "message": "مقدار"
+  },
+  "qtyDecrease": {
+    "message": "کم کریں"
+  },
+  "qtyIncrease": {
+    "message": "بڑھائیں"
+  },
+  "quantityAria": {
+    "message": "مقدار"
+  },
+  "btnGenerate": {
+    "message": "تیار کریں"
+  },
+  "btnCopy": {
+    "message": "کپی کریں"
+  },
+  "btnCopyAria": {
+    "message": "کلپبورڈ میں کپی کریں"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum متن تیار کرنے کے لیے تیار پر کلک کریں…"
+  },
+  "outputAria": {
+    "message": "تیار کرده Lorem Ipsum متن"
+  },
+  "unitParagraphs": {
+    "message": "پارگراف"
+  },
+  "unitWords": {
+    "message": "الفاظ"
+  },
+  "unitBytes": {
+    "message": "بائیٹس"
+  },
+  "unitItems": {
+    "message": "آئیٹم"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "کپی ہوگیا!"
+  }
+}

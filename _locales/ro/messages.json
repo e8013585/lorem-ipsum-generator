@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Paragrafe"
+  },
+  "tabWords": {
+    "message": "Cuvinte"
+  },
+  "tabBytes": {
+    "message": "Octeți"
+  },
+  "tabLists": {
+    "message": "Liste"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generează paragrafe"
+  },
+  "tabWordsTitle": {
+    "message": "Generează cuvinte"
+  },
+  "tabBytesTitle": {
+    "message": "Generează octeți"
+  },
+  "tabListsTitle": {
+    "message": "Generează liste"
+  },
+  "quantityLabel": {
+    "message": "Cantitate"
+  },
+  "qtyDecrease": {
+    "message": "Scade"
+  },
+  "qtyIncrease": {
+    "message": "Crește"
+  },
+  "quantityAria": {
+    "message": "Cantitate"
+  },
+  "btnGenerate": {
+    "message": "Generează"
+  },
+  "btnCopy": {
+    "message": "Copiază"
+  },
+  "btnCopyAria": {
+    "message": "Copiază în clipboard"
+  },
+  "outputPlaceholder": {
+    "message": "Faceți clic pe Generează pentru a crea text Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Text Lorem Ipsum generat"
+  },
+  "unitParagraphs": {
+    "message": "paragrafe"
+  },
+  "unitWords": {
+    "message": "cuvinte"
+  },
+  "unitBytes": {
+    "message": "octeți"
+  },
+  "unitItems": {
+    "message": "elemente"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Copiat!"
+  }
+}

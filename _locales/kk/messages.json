@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Генератор"
+  },
+  "tabParagraphs": {
+    "message": "Абзацтар"
+  },
+  "tabWords": {
+    "message": "Сөздер"
+  },
+  "tabBytes": {
+    "message": "Байттар"
+  },
+  "tabLists": {
+    "message": "Тізімдер"
+  },
+  "tabParagraphsTitle": {
+    "message": "Абзацтарды жасау"
+  },
+  "tabWordsTitle": {
+    "message": "Сөздерді жасау"
+  },
+  "tabBytesTitle": {
+    "message": "Байттарды жасау"
+  },
+  "tabListsTitle": {
+    "message": "Тізімдерді жасау"
+  },
+  "quantityLabel": {
+    "message": "Сан"
+  },
+  "qtyDecrease": {
+    "message": "Азайту"
+  },
+  "qtyIncrease": {
+    "message": "Көбейту"
+  },
+  "quantityAria": {
+    "message": "Сан"
+  },
+  "btnGenerate": {
+    "message": "Жасау"
+  },
+  "btnCopy": {
+    "message": "Көшіру"
+  },
+  "btnCopyAria": {
+    "message": "Алмасу буферіне көшіру"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum мәтінін жасау үшін Жасау басыңызды басыңыз…"
+  },
+  "outputAria": {
+    "message": "Жасалған Lorem Ipsum мәтіні"
+  },
+  "unitParagraphs": {
+    "message": "абзац"
+  },
+  "unitWords": {
+    "message": "сөз"
+  },
+  "unitBytes": {
+    "message": "байт"
+  },
+  "unitItems": {
+    "message": "элемент"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Көшірілді!"
+  }
+}

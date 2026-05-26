@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Framleiðandi"
+  },
+  "tabParagraphs": {
+    "message": "Málsgreinar"
+  },
+  "tabWords": {
+    "message": "Orð"
+  },
+  "tabBytes": {
+    "message": "Bæti"
+  },
+  "tabLists": {
+    "message": "Listar"
+  },
+  "tabParagraphsTitle": {
+    "message": "Búa til málsgreinar"
+  },
+  "tabWordsTitle": {
+    "message": "Búa til orð"
+  },
+  "tabBytesTitle": {
+    "message": "Búa til bæti"
+  },
+  "tabListsTitle": {
+    "message": "Búa til lista"
+  },
+  "quantityLabel": {
+    "message": "Magn"
+  },
+  "qtyDecrease": {
+    "message": "Fækka"
+  },
+  "qtyIncrease": {
+    "message": "Auka"
+  },
+  "quantityAria": {
+    "message": "Magn"
+  },
+  "btnGenerate": {
+    "message": "Búa til"
+  },
+  "btnCopy": {
+    "message": "Afrita"
+  },
+  "btnCopyAria": {
+    "message": "Afrita í klippispjald"
+  },
+  "outputPlaceholder": {
+    "message": "Smelltu á Búa til til að búa til Lorem Ipsum texta…"
+  },
+  "outputAria": {
+    "message": "Búinn Lorem Ipsum texti"
+  },
+  "unitParagraphs": {
+    "message": "málsgreinar"
+  },
+  "unitWords": {
+    "message": "orð"
+  },
+  "unitBytes": {
+    "message": "bæti"
+  },
+  "unitItems": {
+    "message": "atriði"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Afritað!"
+  }
+}

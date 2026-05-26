@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "生成器"
+  },
+  "tabParagraphs": {
+    "message": "段落"
+  },
+  "tabWords": {
+    "message": "単語"
+  },
+  "tabBytes": {
+    "message": "バイト"
+  },
+  "tabLists": {
+    "message": "リスト"
+  },
+  "tabParagraphsTitle": {
+    "message": "段落を生成"
+  },
+  "tabWordsTitle": {
+    "message": "単語を生成"
+  },
+  "tabBytesTitle": {
+    "message": "バイトを生成"
+  },
+  "tabListsTitle": {
+    "message": "リストを生成"
+  },
+  "quantityLabel": {
+    "message": "量"
+  },
+  "qtyDecrease": {
+    "message": "減らす"
+  },
+  "qtyIncrease": {
+    "message": "増やす"
+  },
+  "quantityAria": {
+    "message": "量"
+  },
+  "btnGenerate": {
+    "message": "生成"
+  },
+  "btnCopy": {
+    "message": "コピー"
+  },
+  "btnCopyAria": {
+    "message": "クリップボードにコピー"
+  },
+  "outputPlaceholder": {
+    "message": "生成をクリックして Lorem Ipsum テキストを作成…"
+  },
+  "outputAria": {
+    "message": "生成された Lorem Ipsum テキスト"
+  },
+  "unitParagraphs": {
+    "message": "段落"
+  },
+  "unitWords": {
+    "message": "単語"
+  },
+  "unitBytes": {
+    "message": "バイト"
+  },
+  "unitItems": {
+    "message": "項目"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "コピーしました!"
+  }
+}

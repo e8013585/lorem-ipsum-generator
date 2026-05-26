@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "生成器"
+  },
+  "tabParagraphs": {
+    "message": "段落"
+  },
+  "tabWords": {
+    "message": "单词"
+  },
+  "tabBytes": {
+    "message": "字节"
+  },
+  "tabLists": {
+    "message": "列表"
+  },
+  "tabParagraphsTitle": {
+    "message": "生成段落"
+  },
+  "tabWordsTitle": {
+    "message": "生成单词"
+  },
+  "tabBytesTitle": {
+    "message": "生成字节"
+  },
+  "tabListsTitle": {
+    "message": "生成列表"
+  },
+  "quantityLabel": {
+    "message": "数量"
+  },
+  "qtyDecrease": {
+    "message": "减少"
+  },
+  "qtyIncrease": {
+    "message": "增加"
+  },
+  "quantityAria": {
+    "message": "数量"
+  },
+  "btnGenerate": {
+    "message": "生成"
+  },
+  "btnCopy": {
+    "message": "复制"
+  },
+  "btnCopyAria": {
+    "message": "复制到剪贴板"
+  },
+  "outputPlaceholder": {
+    "message": "点击“生成”创建 Lorem Ipsum 文本…"
+  },
+  "outputAria": {
+    "message": "已生成的 Lorem Ipsum 文本"
+  },
+  "unitParagraphs": {
+    "message": "段落"
+  },
+  "unitWords": {
+    "message": "单词"
+  },
+  "unitBytes": {
+    "message": "字节"
+  },
+  "unitItems": {
+    "message": "项目"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "已复制!"
+  }
+}

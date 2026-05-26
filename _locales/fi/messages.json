@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Luoja"
+  },
+  "tabParagraphs": {
+    "message": "Kappaleet"
+  },
+  "tabWords": {
+    "message": "Sanat"
+  },
+  "tabBytes": {
+    "message": "Tavut"
+  },
+  "tabLists": {
+    "message": "Listat"
+  },
+  "tabParagraphsTitle": {
+    "message": "Luo kappaleita"
+  },
+  "tabWordsTitle": {
+    "message": "Luo sanoja"
+  },
+  "tabBytesTitle": {
+    "message": "Luo tavuja"
+  },
+  "tabListsTitle": {
+    "message": "Luo listoja"
+  },
+  "quantityLabel": {
+    "message": "Määrä"
+  },
+  "qtyDecrease": {
+    "message": "Vähennä"
+  },
+  "qtyIncrease": {
+    "message": "Lisää"
+  },
+  "quantityAria": {
+    "message": "Määrä"
+  },
+  "btnGenerate": {
+    "message": "Luo"
+  },
+  "btnCopy": {
+    "message": "Kopioi"
+  },
+  "btnCopyAria": {
+    "message": "Kopioi leikepöydälle"
+  },
+  "outputPlaceholder": {
+    "message": "Napsauta Luo luodaksesi Lorem Ipsum -tekstiä…"
+  },
+  "outputAria": {
+    "message": "Luotu Lorem Ipsum -teksti"
+  },
+  "unitParagraphs": {
+    "message": "kappaleita"
+  },
+  "unitWords": {
+    "message": "sanoja"
+  },
+  "unitBytes": {
+    "message": "tavuja"
+  },
+  "unitItems": {
+    "message": "kohteita"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopioitu!"
+  }
+}

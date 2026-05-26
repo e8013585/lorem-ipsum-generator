@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "გენერატორი"
+  },
+  "tabParagraphs": {
+    "message": "აბზაცები"
+  },
+  "tabWords": {
+    "message": "სიტყვები"
+  },
+  "tabBytes": {
+    "message": "ბაიტები"
+  },
+  "tabLists": {
+    "message": "სიაები"
+  },
+  "tabParagraphsTitle": {
+    "message": "აბზაცების გენერირება"
+  },
+  "tabWordsTitle": {
+    "message": "სიტყვების გენერირება"
+  },
+  "tabBytesTitle": {
+    "message": "ბაიტების გენერირება"
+  },
+  "tabListsTitle": {
+    "message": "სიაების გენერირება"
+  },
+  "quantityLabel": {
+    "message": "რაოდენობა"
+  },
+  "qtyDecrease": {
+    "message": "შემცირება"
+  },
+  "qtyIncrease": {
+    "message": "გაზრდა"
+  },
+  "quantityAria": {
+    "message": "რაოდენობა"
+  },
+  "btnGenerate": {
+    "message": "გენერირება"
+  },
+  "btnCopy": {
+    "message": "დაკოპირება"
+  },
+  "btnCopyAria": {
+    "message": "ბუფერში დაკოპირება"
+  },
+  "outputPlaceholder": {
+    "message": "დააკლიკეთ გენერირებას Lorem Ipsum ტექსტის შექმნელად…"
+  },
+  "outputAria": {
+    "message": "გენერირებული Lorem Ipsum ტექსტი"
+  },
+  "unitParagraphs": {
+    "message": "აბზაცები"
+  },
+  "unitWords": {
+    "message": "სიტყვები"
+  },
+  "unitBytes": {
+    "message": "ბაიტები"
+  },
+  "unitItems": {
+    "message": "ელემენტები"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "დაკოპირებულია!"
+  }
+}

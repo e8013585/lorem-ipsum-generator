@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "ਜਨਰੇਟਰ"
+  },
+  "tabParagraphs": {
+    "message": "ਪਾਰਾਗਰਾਫ"
+  },
+  "tabWords": {
+    "message": "ਸ਼ਬਦ"
+  },
+  "tabBytes": {
+    "message": "ਬਾਇਟ"
+  },
+  "tabLists": {
+    "message": "ਸੂਚੀਆਂ"
+  },
+  "tabParagraphsTitle": {
+    "message": "ਪਾਰਾਗਰਾਫ ਜਨਰੇਟ ਕਰੋ"
+  },
+  "tabWordsTitle": {
+    "message": "ਸ਼ਬਦ ਜਨਰੇਟ ਕਰੋ"
+  },
+  "tabBytesTitle": {
+    "message": "ਬਾਇਟ ਜਨਰੇਟ ਕਰੋ"
+  },
+  "tabListsTitle": {
+    "message": "ਸੂਚੀਆਂ ਜਨਰੇਟ ਕਰੋ"
+  },
+  "quantityLabel": {
+    "message": "ਮਾਤਰਾ"
+  },
+  "qtyDecrease": {
+    "message": "ਘਟਾਓ"
+  },
+  "qtyIncrease": {
+    "message": "ਵਾਧਾਓ"
+  },
+  "quantityAria": {
+    "message": "ਮਾਤਰਾ"
+  },
+  "btnGenerate": {
+    "message": "ਜਨਰੇਟ ਕਰੋ"
+  },
+  "btnCopy": {
+    "message": "ਕਾਪੀ ਕਰੋ"
+  },
+  "btnCopyAria": {
+    "message": "ਕਾਪੀ ਬੋਰਡ ਚ ਕਾਪੀ ਕਰੋ"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum ਟੇਕਸਟ ਬਣਾਉਣ ਲਈ ਜਨਰੇਟ ਤੇ ਕਲਿਕ ਕਰੋ…"
+  },
+  "outputAria": {
+    "message": "ਜਨਰੇਟ ਕੀਤਾ Lorem Ipsum ਟੇਕਸਟ"
+  },
+  "unitParagraphs": {
+    "message": "ਪਾਰਾਗਰਾਫ"
+  },
+  "unitWords": {
+    "message": "ਸ਼ਬਦ"
+  },
+  "unitBytes": {
+    "message": "ਬਾਇਟ"
+  },
+  "unitItems": {
+    "message": "ਆਇਟਮ"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "ਕਾਪੀ ਹੋ ਗਿਆ!"
+  }
+}

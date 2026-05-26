@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Γεννήτρια"
+  },
+  "tabParagraphs": {
+    "message": "Παραγράφους"
+  },
+  "tabWords": {
+    "message": "Λέξεις"
+  },
+  "tabBytes": {
+    "message": "Byte"
+  },
+  "tabLists": {
+    "message": "Λίστες"
+  },
+  "tabParagraphsTitle": {
+    "message": "Δημιουργία παραγράφων"
+  },
+  "tabWordsTitle": {
+    "message": "Δημιουργία λέξεων"
+  },
+  "tabBytesTitle": {
+    "message": "Δημιουργία byte"
+  },
+  "tabListsTitle": {
+    "message": "Δημιουργία λιστών"
+  },
+  "quantityLabel": {
+    "message": "Ποσότητα"
+  },
+  "qtyDecrease": {
+    "message": "Μείωση"
+  },
+  "qtyIncrease": {
+    "message": "Αύξηση"
+  },
+  "quantityAria": {
+    "message": "Ποσότητα"
+  },
+  "btnGenerate": {
+    "message": "Δημιουργία"
+  },
+  "btnCopy": {
+    "message": "Αντιγραφή"
+  },
+  "btnCopyAria": {
+    "message": "Αντιγραφή στο πρόχειρο"
+  },
+  "outputPlaceholder": {
+    "message": "Κάντε κλικ στο Δημιουργία για κείμενο Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Παραγμένο κείμενο Lorem Ipsum"
+  },
+  "unitParagraphs": {
+    "message": "παραγράφους"
+  },
+  "unitWords": {
+    "message": "λέξεις"
+  },
+  "unitBytes": {
+    "message": "byte"
+  },
+  "unitItems": {
+    "message": "στοιχεία"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Αντιγράφηκε!"
+  }
+}

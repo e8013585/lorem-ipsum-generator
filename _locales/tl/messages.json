@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Talata"
+  },
+  "tabWords": {
+    "message": "Mga Salita"
+  },
+  "tabBytes": {
+    "message": "Byte"
+  },
+  "tabLists": {
+    "message": "Mga Listahan"
+  },
+  "tabParagraphsTitle": {
+    "message": "Gumawa ng mga talata"
+  },
+  "tabWordsTitle": {
+    "message": "Gumawa ng mga salita"
+  },
+  "tabBytesTitle": {
+    "message": "Gumawa ng mga byte"
+  },
+  "tabListsTitle": {
+    "message": "Gumawa ng mga listahan"
+  },
+  "quantityLabel": {
+    "message": "Bilang"
+  },
+  "qtyDecrease": {
+    "message": "Bawasan"
+  },
+  "qtyIncrease": {
+    "message": "Dagdagan"
+  },
+  "quantityAria": {
+    "message": "Bilang"
+  },
+  "btnGenerate": {
+    "message": "Gumawa"
+  },
+  "btnCopy": {
+    "message": "Kopyahin"
+  },
+  "btnCopyAria": {
+    "message": "Kopyahin sa clipboard"
+  },
+  "outputPlaceholder": {
+    "message": "I-click ang Gumawa upang lumikha ng Lorem Ipsum text…"
+  },
+  "outputAria": {
+    "message": "Nilikhang Lorem Ipsum text"
+  },
+  "unitParagraphs": {
+    "message": "talata"
+  },
+  "unitWords": {
+    "message": "salita"
+  },
+  "unitBytes": {
+    "message": "byte"
+  },
+  "unitItems": {
+    "message": "item"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Nakopya!"
+  }
+}

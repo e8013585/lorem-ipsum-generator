@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generatorius"
+  },
+  "tabParagraphs": {
+    "message": "Pastraipos"
+  },
+  "tabWords": {
+    "message": "Žodžiai"
+  },
+  "tabBytes": {
+    "message": "Baitai"
+  },
+  "tabLists": {
+    "message": "Sąrašai"
+  },
+  "tabParagraphsTitle": {
+    "message": "Generuoti pastraipas"
+  },
+  "tabWordsTitle": {
+    "message": "Generuoti žodžius"
+  },
+  "tabBytesTitle": {
+    "message": "Generuoti baitus"
+  },
+  "tabListsTitle": {
+    "message": "Generuoti sąrašus"
+  },
+  "quantityLabel": {
+    "message": "Kiekis"
+  },
+  "qtyDecrease": {
+    "message": "Mažinti"
+  },
+  "qtyIncrease": {
+    "message": "Didinti"
+  },
+  "quantityAria": {
+    "message": "Kiekis"
+  },
+  "btnGenerate": {
+    "message": "Generuoti"
+  },
+  "btnCopy": {
+    "message": "Kopijuoti"
+  },
+  "btnCopyAria": {
+    "message": "Kopijuoti į iškarpinę"
+  },
+  "outputPlaceholder": {
+    "message": "Spustelėkite Generuoti, kad sukurtumėte Lorem Ipsum tekstą…"
+  },
+  "outputAria": {
+    "message": "Sukurtas Lorem Ipsum tekstas"
+  },
+  "unitParagraphs": {
+    "message": "pastraipų"
+  },
+  "unitWords": {
+    "message": "žodžių"
+  },
+  "unitBytes": {
+    "message": "baitų"
+  },
+  "unitItems": {
+    "message": "elementų"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Nukopijuota!"
+  }
+}

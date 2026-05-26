@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Generator"
+  },
+  "tabParagraphs": {
+    "message": "Paraqraflar"
+  },
+  "tabWords": {
+    "message": "Sözlər"
+  },
+  "tabBytes": {
+    "message": "Baytlar"
+  },
+  "tabLists": {
+    "message": "Siyahılar"
+  },
+  "tabParagraphsTitle": {
+    "message": "Paraqraf yarat"
+  },
+  "tabWordsTitle": {
+    "message": "Söz yarat"
+  },
+  "tabBytesTitle": {
+    "message": "Bayt yarat"
+  },
+  "tabListsTitle": {
+    "message": "Siyahı yarat"
+  },
+  "quantityLabel": {
+    "message": "Miqdar"
+  },
+  "qtyDecrease": {
+    "message": "Azalt"
+  },
+  "qtyIncrease": {
+    "message": "Artır"
+  },
+  "quantityAria": {
+    "message": "Miqdar"
+  },
+  "btnGenerate": {
+    "message": "Yarat"
+  },
+  "btnCopy": {
+    "message": "Kopyala"
+  },
+  "btnCopyAria": {
+    "message": "Panoya kopyala"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum mətni yaratmaq üçün Yarat düyməsini klikləyin…"
+  },
+  "outputAria": {
+    "message": "Yaradılmış Lorem Ipsum mətni"
+  },
+  "unitParagraphs": {
+    "message": "paraqraf"
+  },
+  "unitWords": {
+    "message": "söz"
+  },
+  "unitBytes": {
+    "message": "bayt"
+  },
+  "unitItems": {
+    "message": "element"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Kopyalandı!"
+  }
+}

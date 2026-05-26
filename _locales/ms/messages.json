@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Penjana"
+  },
+  "tabParagraphs": {
+    "message": "Perenggan"
+  },
+  "tabWords": {
+    "message": "Perkataan"
+  },
+  "tabBytes": {
+    "message": "Bait"
+  },
+  "tabLists": {
+    "message": "Senarai"
+  },
+  "tabParagraphsTitle": {
+    "message": "Hasilkan perenggan"
+  },
+  "tabWordsTitle": {
+    "message": "Hasilkan perkataan"
+  },
+  "tabBytesTitle": {
+    "message": "Hasilkan bait"
+  },
+  "tabListsTitle": {
+    "message": "Hasilkan senarai"
+  },
+  "quantityLabel": {
+    "message": "Jumlah"
+  },
+  "qtyDecrease": {
+    "message": "Kurangkan"
+  },
+  "qtyIncrease": {
+    "message": "Tambah"
+  },
+  "quantityAria": {
+    "message": "Jumlah"
+  },
+  "btnGenerate": {
+    "message": "Hasilkan"
+  },
+  "btnCopy": {
+    "message": "Salin"
+  },
+  "btnCopyAria": {
+    "message": "Salin ke papan klip"
+  },
+  "outputPlaceholder": {
+    "message": "Klik Hasilkan untuk mencipta teks Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Teks Lorem Ipsum yang dihasilkan"
+  },
+  "unitParagraphs": {
+    "message": "perenggan"
+  },
+  "unitWords": {
+    "message": "perkataan"
+  },
+  "unitBytes": {
+    "message": "bait"
+  },
+  "unitItems": {
+    "message": "item"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Disalin!"
+  }
+}

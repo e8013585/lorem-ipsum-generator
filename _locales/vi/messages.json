@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "Trình tạo"
+  },
+  "tabParagraphs": {
+    "message": "Đoạn văn"
+  },
+  "tabWords": {
+    "message": "Từ"
+  },
+  "tabBytes": {
+    "message": "Byte"
+  },
+  "tabLists": {
+    "message": "Danh sách"
+  },
+  "tabParagraphsTitle": {
+    "message": "Tạo đoạn văn"
+  },
+  "tabWordsTitle": {
+    "message": "Tạo từ"
+  },
+  "tabBytesTitle": {
+    "message": "Tạo byte"
+  },
+  "tabListsTitle": {
+    "message": "Tạo danh sách"
+  },
+  "quantityLabel": {
+    "message": "Số lượng"
+  },
+  "qtyDecrease": {
+    "message": "Giảm"
+  },
+  "qtyIncrease": {
+    "message": "Tăng"
+  },
+  "quantityAria": {
+    "message": "Số lượng"
+  },
+  "btnGenerate": {
+    "message": "Tạo"
+  },
+  "btnCopy": {
+    "message": "Sao chép"
+  },
+  "btnCopyAria": {
+    "message": "Sao chép vào bộ nhớ đệm"
+  },
+  "outputPlaceholder": {
+    "message": "Nhấp vào Tạo để tạo văn bản Lorem Ipsum…"
+  },
+  "outputAria": {
+    "message": "Văn bản Lorem Ipsum đã tạo"
+  },
+  "unitParagraphs": {
+    "message": "đoạn văn"
+  },
+  "unitWords": {
+    "message": "từ"
+  },
+  "unitBytes": {
+    "message": "byte"
+  },
+  "unitItems": {
+    "message": "mục"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "Đã sao chép!"
+  }
+}

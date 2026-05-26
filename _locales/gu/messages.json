@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "જનરેટર"
+  },
+  "tabParagraphs": {
+    "message": "ફઁગી"
+  },
+  "tabWords": {
+    "message": "શબ્દો"
+  },
+  "tabBytes": {
+    "message": "બાઇટ્સ"
+  },
+  "tabLists": {
+    "message": "યાદી"
+  },
+  "tabParagraphsTitle": {
+    "message": "ફઁગી બનાવો"
+  },
+  "tabWordsTitle": {
+    "message": "શબ્દો બનાવો"
+  },
+  "tabBytesTitle": {
+    "message": "બાઇટ્સ બનાવો"
+  },
+  "tabListsTitle": {
+    "message": "યાદી બનાવો"
+  },
+  "quantityLabel": {
+    "message": "જ્ઞાન"
+  },
+  "qtyDecrease": {
+    "message": "ઘટાવો"
+  },
+  "qtyIncrease": {
+    "message": "વધારો"
+  },
+  "quantityAria": {
+    "message": "જ્ઞાન"
+  },
+  "btnGenerate": {
+    "message": "બનાવો"
+  },
+  "btnCopy": {
+    "message": "નકલ કરો"
+  },
+  "btnCopyAria": {
+    "message": "ક્લિપબોર્ડમાં નકલ કરો"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum ટેક્સ્ટ બનાવવા બનાવો પર ક્લિક કરો…"
+  },
+  "outputAria": {
+    "message": "બનાવેલ Lorem Ipsum ટેક્સ્ટ"
+  },
+  "unitParagraphs": {
+    "message": "ફઁગી"
+  },
+  "unitWords": {
+    "message": "શબ્દો"
+  },
+  "unitBytes": {
+    "message": "બાઇટ્સ"
+  },
+  "unitItems": {
+    "message": "આયટમ"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "નકલ કર્યું!"
+  }
+}

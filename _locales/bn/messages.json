@@ -1,0 +1,77 @@
+{
+  "appTitle": {
+    "message": "Lorem Ipsum"
+  },
+  "appSubtitle": {
+    "message": "জেনারেটর"
+  },
+  "tabParagraphs": {
+    "message": "প্যারাগ্রাফ"
+  },
+  "tabWords": {
+    "message": "শব্দ"
+  },
+  "tabBytes": {
+    "message": "বাইট"
+  },
+  "tabLists": {
+    "message": "তালিকা"
+  },
+  "tabParagraphsTitle": {
+    "message": "প্যারাগ্রাফ জেনারেট করুন"
+  },
+  "tabWordsTitle": {
+    "message": "শব্দ জেনারেট করুন"
+  },
+  "tabBytesTitle": {
+    "message": "বাইট জেনারেট করুন"
+  },
+  "tabListsTitle": {
+    "message": "তালিকা জেনারেট করুন"
+  },
+  "quantityLabel": {
+    "message": "পরিমাণ"
+  },
+  "qtyDecrease": {
+    "message": "কমান"
+  },
+  "qtyIncrease": {
+    "message": "বাড়ান"
+  },
+  "quantityAria": {
+    "message": "পরিমাণ"
+  },
+  "btnGenerate": {
+    "message": "জেনারেট করুন"
+  },
+  "btnCopy": {
+    "message": "কপি করুন"
+  },
+  "btnCopyAria": {
+    "message": "ক্লিপবোর্ডে কপি করুন"
+  },
+  "outputPlaceholder": {
+    "message": "Lorem Ipsum টেক্সট তৈরিতে জেনারেট ক্লিক করুন…"
+  },
+  "outputAria": {
+    "message": "জেনারেট করা Lorem Ipsum টেক্সট"
+  },
+  "unitParagraphs": {
+    "message": "প্যারাগ্রাফ"
+  },
+  "unitWords": {
+    "message": "শব্দ"
+  },
+  "unitBytes": {
+    "message": "বাইট"
+  },
+  "unitItems": {
+    "message": "আইটেম"
+  },
+  "footerText": {
+    "message": "Lorem Ipsum Generator"
+  },
+  "copyConfirmation": {
+    "message": "কপি হয়েছে!"
+  }
+}
